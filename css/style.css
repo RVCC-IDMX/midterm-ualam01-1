@@ -33,6 +33,7 @@ img {
     border-radius: 50%;
 }
 
+
 /* Projects */
 
 
@@ -50,7 +51,7 @@ img {
     border:none;
     border-top: 15 px double #2f3634;
 }
-@media screen and (min-width: 100em) {
+@media screen and (min-width: 1000px) {
     #portfolio {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
